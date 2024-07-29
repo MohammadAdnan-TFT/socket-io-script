@@ -1,0 +1,1261 @@
+User: Hi
+Bot: Hello! How can I assist you today?
+
+User: Get Leave Balance
+Bot: Casual Leave balance is 0.33 and Sick Leave balance is 1.33 and Paternity Leave balance is 3.00 and Total Leave balance is 5.66
+
+User: clock in
+Bot: You're all set! Keka has been clocked in successfully.
+
+User: comment for clock in
+Bot: It seems you have already clocked in. Please check your status.
+
+User: clock out
+Bot: Keka has been successfully clocked out. See you again soon!
+
+User: sign in to keka
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: sign out of keka
+Bot: It appears that the user is already clocked out. No further action is needed at the moment.
+
+User: log in to keka
+Bot: You're all set! Keka has been clocked in successfully.
+
+User: log out of keka
+Bot: Keka has been successfully clocked out. See you again soon!
+
+User: start my day on keka
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: end my day on keka
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: can you apply sick leave for tommorow? Reason test
+Bot: There is not enough leave balance for Sick Leave.
+
+
+User: fetch my current leave balance from keka
+Bot: Casual Leave balance is 0.33 and Sick Leave balance is 1.33 and Paternity Leave balance is 3.00 and Total Leave balance is 5.66
+
+User: fetch my current casual leave balance
+Bot: Casual Leave balance is 0.33
+
+User: get rh leave balance
+Bot: you don't have any Restricted Holiday balance
+
+User: what is my earned leave balance on keka?
+Bot: I'm not designed to answer this question.
+
+User: is satyam on leave today?
+Bot: 1. I'm not designed to answer this question.
+
+User: has employee 121142 taken leave this month
+Bot: We couldn't identify the app based on given action. Please try your request again.
+
+User: was adnan on leave on 25 June
+Bot: 1. I'm not designed to answer this question.
+
+User: when is satyam next on leave
+Bot: Casual Leave balance is 0.33 and Sick Leave balance is 1.33 and Paternity Leave balance is 3.00 and Total Leave balance is 5.66
+
+User: when was satyam last on leave
+Bot: 1. Satyam was last on leave on [date].
+2. Satyam's last leave was on [date].
+3. Satyam's most recent leave was on [date].
+
+User: fetch my meetings for tomorrow
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: fetch details of my scheduled meetings for 15-08-2024
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: get list of my scheduled meetings for today
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: get list of my scheduled meetings for 05-08-2024
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: give me a list of my schduled meetings for today
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: give me a list of my schduled meetings for 05-08-2024
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: can you schedule a call with gupta.aman@tf.com and kumar.satyam@tft.com tomorow at 10:00? for testing
+Bot: Attendees is missing, please enter value of Attendees in Email format or send "CANCEL" to start new conversation
+
+User: can you schedule a call with gupta@tfs.com, adnan@tfus.com and kumar@tfts.com tomorow at 10:00? for testing
+Bot: Something went wrong. Please try again Later.
+
+User: get my scheduled meetings
+Bot: We apologize, but we couldn't find any events that match the given name.
+
+User: get my jira tickets
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: fetch me a list of jira tickets
+Bot: Oops! No jira ticket found. Please refine your search and try again!
+
+User: give me a list of jira tickets
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: give my high priority jira tickets
+Bot: Here are your latest jira tickets :- <br><br>high priority test<br>https://simplifypath.atlassian.net/browse/KAN-1<br>Status: To Do<br>Priority: High<br><br>
+
+User: give my medium priority jira tickets
+Bot: Here are your latest 5 jira tickets :- <br><br>Optimise "Get Employees" prompt functionality<br>https://simplifypath.atlassian.net/browse/SIM-308<br>Status: To Do<br>Priority: Medium<br><br>Jira Functionality is not working sometimes on staging<br>https://simplifypath.atlassian.net/browse/SIM-296<br>Status: To Do<br>Priority: Medium<br><br>Creating meeting with wrong Email address - Prod<br>https://simplifypath.atlassian.net/browse/SIM-194<br>Status: To Do<br>Priority: Medium<br><br>User should not allow to log in to multiple window<br>https://simplifypath.atlassian.net/browse/SIM-156<br>Status: To Do<br>Priority: Medium<br><br>User sees "Something went wrong. Please try again Later." error while trying to schedule a call in between 23:31 to 23:59<br>https://simplifypath.atlassian.net/browse/SIM-154<br>Status: To Do<br>Priority: Medium<br><br>For more tickets, please visit https://simplifypath.atlassian.net/issues/?jql=assignee=%22Sara%20Dhingra%22" :- <br><br>
+
+User: give my low priority jira tickets
+Bot: Oops! No jira ticket found. Please refine your search and try again!
+
+User: give me low priority jira tickets of employee satyam kumar
+Bot: Oops! No jira ticket found. Please refine your search and try again!
+
+User: get me high priority jira tickets of employee satyam kumar
+Bot: Here are your latest jira tickets :- <br><br>high test<br>https://simplifypath.atlassian.net/browse/KAN-9<br>Status: To Do<br>Priority: High<br><br>
+
+User: get me medium priority jira tickets of user satyam kumar
+Bot: Here are your latest jira tickets :- <br><br>Improvement : Needs to change permissions related to names and validations<br>https://simplifypath.atlassian.net/browse/SIM-320<br>Status: To Do<br>Priority: Medium<br><br>Optimise Toast Message<br>https://simplifypath.atlassian.net/browse/SIM-270<br>Status: To Do<br>Priority: Medium<br><br>Implement Log Out API for standalone app<br>https://simplifypath.atlassian.net/browse/SIM-119<br>Status: To Do<br>Priority: Medium<br><br>Handle multiple Jira projects<br>https://simplifypath.atlassian.net/browse/SIM-31<br>Status: To Do<br>Priority: Medium<br><br>
+
+User: Show list of all the client projects
+Bot: Accessibe, AngiesList, Apna, Applause, Avansys, Baliston, Bayshann, Beachlab-Chrome extension, Bizzabo, Broadvoice, BrucBond, BSES, BSES KYC OCR, Builder.ai, CAIR, CAIR Audio Dashboard, CAIR Audio Diarization, Careof, Casted, Cathworks, Centerfield, Cloudify, Cnvrg, DBF, Deify, Dhanuka BRD, DotEarth, Dyflexis, Ecosupp, Experton, Experton Ph II, Fishguru, Genix Ventures, GoFindBuild, Grofers, Harrys, IFAT, Indieflow, Innovare, Interlinkages, IoTBoxsystem, Itay, Jewelmesh, JMATEK, Kalido, Kontra, Linkury, LiveLike, Lusha, Mathika
+
+User: get list of all the client projects
+Bot: Accessibe, Apna, Avansys, Bizzabo, Broadvoice, BrucBond, BSES, BSES KYC OCR, Builder.ai, CAIR, CAIR Audio Dashboard, CAIR Audio Diarization, Careof, Casted, Cathworks, Centerfield, Cloudify, Cnvrg, DBF, Dhanuka BRD, Dyflexis, Experton Ph II, Fishguru, Genix Ventures, GoFindBuild, Grofers, IFAT, Indieflow, Interlinkages, IoTBoxsystem, Itay, Jewelmesh, JMATEK, Kalido, Kontra, Linkury, LiveLike, Mathika, Minutely, Moberries, Myheritage, Namdar Group, Nexgent, Pluto, QA Check, Qmarkets, Qscout, Reach, Realization, Remcare
+
+User: fetch list of all the client projects
+Bot: Accessibe, Apna, Avansys, Bizzabo, Broadvoice, BrucBond, BSES, BSES KYC OCR, Builder.ai, CAIR, CAIR Audio Dashboard, CAIR Audio Diarization, Careof, Casted, Cathworks, Centerfield, Cloudify, Cnvrg, DBF, Dhanuka BRD, Dyflexis, Experton Ph II, Fishguru, Genix Ventures, GoFindBuild, Grofers, IFAT, Indieflow, Interlinkages, IoTBoxsystem, Itay, Jewelmesh, JMATEK, Kalido, Kontra, Linkury, LiveLike, Mathika, Minutely, Moberries, Myheritage, Namdar Group, Nexgent, Pluto, QA Check, Qmarkets, Qscout, Reach, Realization, Remcare
+
+User: get a list of employees whose name is starting with letter A
+Bot: test admin
+
+User: fetch me a list of all employees whose name is starting with letter Z
+Bot: test admin
+
+User: give me a list of employees whose name is starting with letter A
+Bot: test admin
+
+User: How to integrate keka with SimplifyPath?
+Bot: To connect Keka with SimplifyPath, follow these steps: 
+1. Navigate to the integrations section in SimplifyPath. 
+2. Locate Keka and click on "Activate." 
+3. A prompt will request a refresh token. Obtain this token by following these steps in the Keka app: 
+   - Right-click and select "Inspect" or use the shortcut Ctrl+Shift+I. 
+   - Go to the "Applications" tab and click on "Local Storage." 
+   - Find the "refresh token" key on the right-hand side. Copy its value. 
+4. Paste the refresh token in the corresponding input field on SimplifyPath and click "Connect." 
+5. Once integrated, you can seamlessly perform actions related to Keka directly from SimplifyPath.
+
+User: How to connect keka with SimplifyPath?
+Bot: To integrate Keka with SimplifyPath, follow these steps: 
+1. Navigate to the integrations section in SimplifyPath. 
+2. Locate Keka and click on "Activate." 
+3. A prompt will request a refresh token. Obtain this token by following these steps in the Keka app: 
+   - Right-click and select "Inspect" or use the shortcut Ctrl+Shift+I. 
+   - Go to the "Applications" tab and click on "Local Storage." 
+   - Find the "refresh token" key on the right-hand side. Copy its value. 
+4. Paste the refresh token in the corresponding input field on SimplifyPath and click "Connect." 
+5. Once integrated, you can seamlessly perform actions related to Keka directly from SimplifyPath.
+
+User: How to integrate keka?
+Bot: To connect Keka with SimplifyPath, follow these steps: 
+1. Navigate to the integrations section in SimplifyPath. 
+2. Locate Keka and click on "Activate." 
+3. A prompt will request a refresh token. Obtain this token by following these steps in the Keka app: 
+   - Right-click and select "Inspect" or use the shortcut Ctrl+Shift+I. 
+   - Go to the "Applications" tab and click on "Local Storage." 
+   - Find the "refresh token" key on the right-hand side. Copy its value. 
+4. Paste the refresh token in the corresponding input field on SimplifyPath and click "Connect." 
+5. Once integrated, you can seamlessly perform actions related to Keka directly from SimplifyPath.
+
+User: How can I connect keka?
+Bot: To integrate Keka with SimplifyPath, follow these steps: 
+1. Navigate to the integrations section in SimplifyPath. 
+2. Locate Keka and click on "Activate." 
+3. A prompt will request a refresh token. Obtain this token by following these steps in the Keka app: 
+   - Right-click and select "Inspect" or use the shortcut Ctrl+Shift+I. 
+   - Go to the "Applications" tab and click on "Local Storage." 
+   - Find the "refresh token" key on the right-hand side. Copy its value. 
+4. Paste the refresh token in the corresponding input field on SimplifyPath and click "Connect." 
+5. Once integrated, you can seamlessly perform actions related to Keka directly from SimplifyPath.
+
+User: Steps to integrate keka?
+Bot: To integrate Keka with SimplifyPath, follow these steps: 
+1. Navigate to the integrations section in SimplifyPath. 
+2. Locate Keka and click on "Activate." 
+3. A prompt will request a refresh token. Obtain this token by following these steps in the Keka app: 
+   - Right-click and select "Inspect" or use the shortcut Ctrl+Shift+I. 
+   - Go to the "Applications" tab and click on "Local Storage." 
+   - Find the "refresh token" key on the right-hand side. Copy its value. 
+4. Paste the refresh token in the corresponding input field on SimplifyPath and click "Connect." 
+5. Once integrated, you can seamlessly perform actions related to Keka directly from SimplifyPath.
+
+User: Integrating DBF with SimplifyPath
+Bot: To integrate DBF with SimplifyPath, please follow these steps: 
+1. Visit the integrations page in SimplifyPath. 
+2. Activate the DBF app. 
+3. Enter your username/email and password to establish the connection.
+
+User: connect DBF with SimplifyPath
+Bot: We couldn't identify the app based on given action. Please try your request again.
+
+User: Steps to integrate DBF?
+Bot: We couldn't identify the app based on given action. Please try your request again.
+
+User: how to integrate DBF with simplifypath?
+Bot: We couldn't identify the app based on given action. Please try your request again.
+
+User: How to connect DBF with SimplifyPath?
+Bot: To integrate DBF with SimplifyPath, please follow these steps: 
+1. Visit the integrations page in SimplifyPath. 
+2. Activate the DBF app. 
+3. Enter your username/email and password to establish the connection.
+
+User: Integrating Google Calendar with SimplifyPath
+Bot: Sure, to integrate Google Calendar with SimplifyPath, you can follow these steps:
+
+1. Access the integrations page in SimplifyPath.
+2. Activate the Google Calendar app.
+3. Initiate OAuth, which will redirect you to a new page.
+4. Choose the Google account for authentication.
+5. Grant SimplifyPath the necessary permissions to access your calendar.
+6. Once completed, you can effortlessly schedule meetings on SimplifyPath.
+
+User: connecting Google Calendar with SimplifyPath
+Bot: Sure, to integrate Google Calendar with SimplifyPath, follow these steps:
+
+1. Access the integrations page in SimplifyPath.
+2. Activate the Google Calendar app.
+3. Initiate OAuth, which will redirect you to a new page.
+4. Choose the Google account for authentication.
+5. Grant SimplifyPath the necessary permissions to access your calendar.
+6. Once completed, you can effortlessly schedule meetings on SimplifyPath.
+
+User: Steps to integrate Google Calendar?
+Bot: To integrate Google Calendar with SimplifyPath, follow these steps:
+1. Access the integrations page in SimplifyPath.
+2. Activate the Google Calendar app.
+3. Initiate OAuth, which will redirect you to a new page.
+4. Choose the Google account for authentication.
+5. Grant SimplifyPath the necessary permissions to access your calendar.
+6. Once completed, you can effortlessly schedule meetings on SimplifyPath.
+
+User: How can I integrate Google Calendar?
+Bot: To integrate Google Calendar with SimplifyPath, follow these steps:
+1. Access the integrations page in SimplifyPath.
+2. Activate the Google Calendar app.
+3. Initiate OAuth, which will redirect you to a new page.
+4. Choose the Google account for authentication.
+5. Grant SimplifyPath the necessary permissions to access your calendar.
+6. Once completed, you can effortlessly schedule meetings on SimplifyPath.
+
+User: Integrating Jira with SimplifyPath
+Bot: The value 'integrating jira with simplifypath' does not exist for the field 'project'.
+
+User: connecting Jira with SimplifyPath
+Bot: To connect Jira with SimplifyPath, follow these steps:
+1. Head to the integrations page in SimplifyPath.
+2. Activate the Jira app.
+3. Initiate OAuth, allowing SimplifyPath the required permissions to access your Jira.
+4. If you have multiple Jira projects, select the desired one from the "Authorize for site" dropdown.
+5. Click "Accept" to finalize the integration.
+6. Now, you can manage your Jira tickets seamlessly within SimplifyPath.
+
+User: How to integrate Jira?
+Bot: 1. Head to the integrations page in SimplifyPath.
+2. Activate the Jira app.
+3. Initiate OAuth, allowing SimplifyPath the required permissions to access your Jira.
+4. If you have multiple Jira projects, select the desired one from the "Authorize for site" dropdown.
+5. Click "Accept" to finalize the integration.
+6. Now, you can manage your Jira tickets seamlessly within SimplifyPath.
+
+User: Steps to integrate Jira?
+Bot: We are unable to process your query due to invalid data. Please correct your input and try your query again.
+
+User: Steps to connect Jira?
+Bot: To integrate Jira with SimplifyPath, follow these steps: 
+1. Head to the integrations page in SimplifyPath. 
+2. Activate the Jira app. 
+3. Initiate OAuth, allowing SimplifyPath the required permissions to access your Jira. 
+4. If you have multiple Jira projects, select the desired one from the "Authorize for site" dropdown. 
+5. Click "Accept" to finalize the integration. 
+6. Now, you can manage your Jira tickets seamlessly within SimplifyPath.
+
+User: can I combine casual leaves and sick leaves?
+Bot: Casual Leave balance is 0.33 and Sick Leave balance is 1.33 and Paternity Leave balance is 3.00 and Total Leave balance is 5.66
+
+User: What is simplifypath? 
+Bot: I'm not designed to answer this question
+
+User: create a lead for raj mehta, ubisoft. with raj@ubi.com, 
+and 7754488234
+Bot: Duplicate record exists in Lead
+
+User: could you please insert contact information for mr. christopher
+brown, as chris.brown@example.com, and 987-654-3210
+in salesforce?
+Bot: Duplicate record exists in Contact
+
+User: get my salesforce leads
+Bot: <b>Here are your Leads :</b>
+1. Name: davy jones
+   Phone: 999999
+   Email: jones@davy.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6iE2AQ
+   Company: convo
+
+2. Name: firstest latest
+   Phone: 109876543
+   Email: testemail2@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024b9DX2AY
+   Company: testcompany2
+
+3. Name: Mr.first last
+   Phone: null
+   Email: null
+   Title: null
+   Website: null
+   Id: 00QGB000024bAZm2AM
+   Company: testc
+
+4. Name: MsPatricia Feager
+   Phone: (336) 777-1970
+   Email: patricia_feager@is.com
+   Title: CEO
+   Website: null
+   Id: 00QGB0000240A3c2AE
+   Company: International Shipping Co.
+
+5. Name: firsttest lasttest
+   Phone: 09876543
+   Email: testemail@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024bAcQ2AU
+   Company: testcompany
+
+6. Name: day bay
+   Phone: 123456789
+   Email: daybay@ttt.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6qS2AQ
+   Company: daybay
+
+7. Name: Ms.Bertha Boxer
+   Phone: (850) 644-4200
+   Email: bertha@fcof.net
+   Title: Director of Vendor Relations
+   Website: null
+   Id: 00QGB0000240A3Y2AU
+   Company: Farmers Coop. of Florida
+
+8. Name: MsPhyllis Cotton
+   Phone: (703) 757-1000
+   Email: pcotton@abbottins.net
+   Title: CFO
+   Website: null
+   Id: 00QGB0000240A3Z2AU
+   Company: Abbott Insurance
+
+9. Name: MrJeff Glimpse
+   Phone: 886-2-25474189
+   Email: jeffg@jackson.com
+   Title: SVP, Procurement
+   Website: null
+   Id: 00QGB0000240A3a2AE
+   Company: Jackson Controls
+
+10. Name: MrMike Braund
+   Phone: (410) 381-2334
+   Email: likeb@metro.com
+   Title: VP, Technology
+   Website: null
+   Id: 00QGB0000240A3b2AE
+   Company: Metropolitan Health Services
+
+
+
+User: kindly provide me with leads from salesforce
+Bot: <b>Here are your Leads :</b>
+1. Name: davy jones
+   Phone: 999999
+   Email: jones@davy.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6iE2AQ
+   Company: convo
+
+2. Name: firstest latest
+   Phone: 109876543
+   Email: testemail2@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024b9DX2AY
+   Company: testcompany2
+
+3. Name: Mr.first last
+   Phone: null
+   Email: null
+   Title: null
+   Website: null
+   Id: 00QGB000024bAZm2AM
+   Company: testc
+
+4. Name: firsttest lasttest
+   Phone: 09876543
+   Email: testemail@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024bAcQ2AU
+   Company: testcompany
+
+5. Name: day bay
+   Phone: 123456789
+   Email: daybay@ttt.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6qS2AQ
+   Company: daybay
+
+6. Name: Ms.Bertha Boxer
+   Phone: (850) 644-4200
+   Email: bertha@fcof.net
+   Title: Director of Vendor Relations
+   Website: null
+   Id: 00QGB0000240A3Y2AU
+   Company: Farmers Coop. of Florida
+
+7. Name: MsPhyllis Cotton
+   Phone: (703) 757-1000
+   Email: pcotton@abbottins.net
+   Title: CFO
+   Website: null
+   Id: 00QGB0000240A3Z2AU
+   Company: Abbott Insurance
+
+8. Name: MrJeff Glimpse
+   Phone: 886-2-25474189
+   Email: jeffg@jackson.com
+   Title: SVP, Procurement
+   Website: null
+   Id: 00QGB0000240A3a2AE
+   Company: Jackson Controls
+
+9. Name: MrMike Braund
+   Phone: (410) 381-2334
+   Email: likeb@metro.com
+   Title: VP, Technology
+   Website: null
+   Id: 00QGB0000240A3b2AE
+   Company: Metropolitan Health Services
+
+10. Name: MsPatricia Feager
+   Phone: (336) 777-1970
+   Email: patricia_feager@is.com
+   Title: CEO
+   Website: null
+   Id: 00QGB0000240A3c2AE
+   Company: International Shipping Co.
+
+
+
+User: get my salesforce lead with name mohammad adnan
+Bot: <b>Here are your Leads :</b>
+1. Name: Mr.Mohammad Adnan
+
+
+
+User: fetch my salesforce leads
+Bot: <b>Here are your Leads :</b>
+1. Name: davy jones
+   Phone: 999999
+   Email: jones@davy.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6iE2AQ
+   Company: convo
+
+2. Name: firstest latest
+   Phone: 109876543
+   Email: testemail2@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024b9DX2AY
+   Company: testcompany2
+
+3. Name: Mr.first last
+   Phone: null
+   Email: null
+   Title: null
+   Website: null
+   Id: 00QGB000024bAZm2AM
+   Company: testc
+
+4. Name: firsttest lasttest
+   Phone: 09876543
+   Email: testemail@mail.com
+   Title: null
+   Website: null
+   Id: 00QGB000024bAcQ2AU
+   Company: testcompany
+
+5. Name: day bay
+   Phone: 123456789
+   Email: daybay@ttt.com
+   Title: null
+   Website: null
+   Id: 00QGB000024c6qS2AQ
+   Company: daybay
+
+6. Name: Ms.Bertha Boxer
+   Phone: (850) 644-4200
+   Email: bertha@fcof.net
+   Title: Director of Vendor Relations
+   Website: null
+   Id: 00QGB0000240A3Y2AU
+   Company: Farmers Coop. of Florida
+
+7. Name: MsPhyllis Cotton
+   Phone: (703) 757-1000
+   Email: pcotton@abbottins.net
+   Title: CFO
+   Website: null
+   Id: 00QGB0000240A3Z2AU
+   Company: Abbott Insurance
+
+8. Name: MrJeff Glimpse
+   Phone: 886-2-25474189
+   Email: jeffg@jackson.com
+   Title: SVP, Procurement
+   Website: null
+   Id: 00QGB0000240A3a2AE
+   Company: Jackson Controls
+
+9. Name: MrMike Braund
+   Phone: (410) 381-2334
+   Email: likeb@metro.com
+   Title: VP, Technology
+   Website: null
+   Id: 00QGB0000240A3b2AE
+   Company: Metropolitan Health Services
+
+10. Name: MsPatricia Feager
+   Phone: (336) 777-1970
+   Email: patricia_feager@is.com
+   Title: CEO
+   Website: null
+   Id: 00QGB0000240A3c2AE
+   Company: International Shipping Co.
+
+
+
+User: fetch my salesforce lead with name mohammad adnan
+Bot: <b>Here are your Leads :</b>
+1. Name: Mr.Mohammad Adnan
+
+
+
+User: please give me the latest 10 leads with phone numbers
+Bot: <b>Here are your latest Leads :</b>
+1.   Phone: 999999
+
+2.   Phone: 109876543
+
+3.   Phone: null
+
+4.   Phone: 09876543
+
+5.   Phone: 123456789
+
+6.   Phone: (850) 644-4200
+
+7.   Phone: (703) 757-1000
+
+8.   Phone: 886-2-25474189
+
+9.   Phone: (410) 381-2334
+
+10.   Phone: (336) 777-1970
+
+
+
+User: fetch my salesforce accounts
+Bot: <b>Here are your Accounts :</b>
+1. Name: TFT Testing Account
+   Phone: 09823479
+   Id: 001GB00003C9p2mYAB
+   Website: tftus.com
+   Type: Technology Partner
+
+2. Name: Sample Account for Entitlements
+   Phone: null
+   Id: 001GB00003AEl3NYAT
+   Website: null
+   Type: null
+
+3. Name: GenePoint
+   Phone: (650) 867-3450
+   Id: 001GB00003AfEaJYAV
+   Website: www.genepoint.com
+   Type: Customer - Channel
+
+4. Name: United Oil & Gas, UK
+   Phone: +44 191 4956203
+   Id: 001GB00003AfEaHYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+5. Name: United Oil & Gas, Singapore
+   Phone: (650) 450-8810
+   Id: 001GB00003AfEaIYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+6. Name: Edge Communications
+   Phone: (512) 757-6000
+   Id: 001GB00003AfEa9YAF
+   Website: http://edgecomm.com
+   Type: Customer - Direct
+
+7. Name: Burlington Textiles Corp of America
+   Phone: (336) 222-7000
+   Id: 001GB00003AfEaAYAV
+   Website: www.burlington.com
+   Type: Customer - Direct
+
+8. Name: Pyramid Construction Inc.
+   Phone: (014) 427-4427
+   Id: 001GB00003AfEaBYAV
+   Website: www.pyramid.com
+   Type: Customer - Channel
+
+9. Name: Dickenson plc
+   Phone: (785) 241-6200
+   Id: 001GB00003AfEaCYAV
+   Website: dickenson-consulting.com
+   Type: Customer - Channel
+
+10. Name: Grand Hotels & Resorts Ltd
+   Phone: (312) 596-1000
+   Id: 001GB00003AfEaDYAV
+   Website: www.grandhotels.com
+   Type: Customer - Direct
+
+
+
+User: fetch my salesforce account with name TFT testing account
+Bot: <b>Here are your Accounts :</b>
+1. Name: TFT Testing Account
+   Phone: 09823479
+   Id: 001GB00003C9p2mYAB
+   Website: tftus.com
+   Type: Technology Partner
+
+2. Name: Sample Account for Entitlements
+   Phone: null
+   Id: 001GB00003AEl3NYAT
+   Website: null
+   Type: null
+
+3. Name: GenePoint
+   Phone: (650) 867-3450
+   Id: 001GB00003AfEaJYAV
+   Website: www.genepoint.com
+   Type: Customer - Channel
+
+4. Name: United Oil & Gas, UK
+   Phone: +44 191 4956203
+   Id: 001GB00003AfEaHYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+5. Name: United Oil & Gas, Singapore
+   Phone: (650) 450-8810
+   Id: 001GB00003AfEaIYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+6. Name: Edge Communications
+   Phone: (512) 757-6000
+   Id: 001GB00003AfEa9YAF
+   Website: http://edgecomm.com
+   Type: Customer - Direct
+
+7. Name: Burlington Textiles Corp of America
+   Phone: (336) 222-7000
+   Id: 001GB00003AfEaAYAV
+   Website: www.burlington.com
+   Type: Customer - Direct
+
+8. Name: Pyramid Construction Inc.
+   Phone: (014) 427-4427
+   Id: 001GB00003AfEaBYAV
+   Website: www.pyramid.com
+   Type: Customer - Channel
+
+9. Name: Dickenson plc
+   Phone: (785) 241-6200
+   Id: 001GB00003AfEaCYAV
+   Website: dickenson-consulting.com
+   Type: Customer - Channel
+
+10. Name: Grand Hotels & Resorts Ltd
+   Phone: (312) 596-1000
+   Id: 001GB00003AfEaDYAV
+   Website: www.grandhotels.com
+   Type: Customer - Direct
+
+
+
+User: get my salesforce accounts list
+Bot: <b>Here are your Accounts :</b>
+1. Name: TFT Testing Account
+   Phone: 09823479
+   Id: 001GB00003C9p2mYAB
+   Website: tftus.com
+   Type: Technology Partner
+
+2. Name: Sample Account for Entitlements
+   Phone: null
+   Id: 001GB00003AEl3NYAT
+   Website: null
+   Type: null
+
+3. Name: GenePoint
+   Phone: (650) 867-3450
+   Id: 001GB00003AfEaJYAV
+   Website: www.genepoint.com
+   Type: Customer - Channel
+
+4. Name: United Oil & Gas, UK
+   Phone: +44 191 4956203
+   Id: 001GB00003AfEaHYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+5. Name: United Oil & Gas, Singapore
+   Phone: (650) 450-8810
+   Id: 001GB00003AfEaIYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+6. Name: Edge Communications
+   Phone: (512) 757-6000
+   Id: 001GB00003AfEa9YAF
+   Website: http://edgecomm.com
+   Type: Customer - Direct
+
+7. Name: Burlington Textiles Corp of America
+   Phone: (336) 222-7000
+   Id: 001GB00003AfEaAYAV
+   Website: www.burlington.com
+   Type: Customer - Direct
+
+8. Name: Pyramid Construction Inc.
+   Phone: (014) 427-4427
+   Id: 001GB00003AfEaBYAV
+   Website: www.pyramid.com
+   Type: Customer - Channel
+
+9. Name: Dickenson plc
+   Phone: (785) 241-6200
+   Id: 001GB00003AfEaCYAV
+   Website: dickenson-consulting.com
+   Type: Customer - Channel
+
+10. Name: Grand Hotels & Resorts Ltd
+   Phone: (312) 596-1000
+   Id: 001GB00003AfEaDYAV
+   Website: www.grandhotels.com
+   Type: Customer - Direct
+
+
+
+User: get my salesforce account with name TFT testing account
+Bot: <b>Here are your Accounts :</b>
+1. Name: TFT Testing Account
+   Phone: 09823479
+   Id: 001GB00003C9p2mYAB
+   Website: tftus.com
+   Type: Technology Partner
+
+2. Name: Sample Account for Entitlements
+   Phone: null
+   Id: 001GB00003AEl3NYAT
+   Website: null
+   Type: null
+
+3. Name: GenePoint
+   Phone: (650) 867-3450
+   Id: 001GB00003AfEaJYAV
+   Website: www.genepoint.com
+   Type: Customer - Channel
+
+4. Name: United Oil & Gas, UK
+   Phone: +44 191 4956203
+   Id: 001GB00003AfEaHYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+5. Name: United Oil & Gas, Singapore
+   Phone: (650) 450-8810
+   Id: 001GB00003AfEaIYAV
+   Website: http://www.uos.com
+   Type: Customer - Direct
+
+6. Name: Edge Communications
+   Phone: (512) 757-6000
+   Id: 001GB00003AfEa9YAF
+   Website: http://edgecomm.com
+   Type: Customer - Direct
+
+7. Name: Burlington Textiles Corp of America
+   Phone: (336) 222-7000
+   Id: 001GB00003AfEaAYAV
+   Website: www.burlington.com
+   Type: Customer - Direct
+
+8. Name: Pyramid Construction Inc.
+   Phone: (014) 427-4427
+   Id: 001GB00003AfEaBYAV
+   Website: www.pyramid.com
+   Type: Customer - Channel
+
+9. Name: Dickenson plc
+   Phone: (785) 241-6200
+   Id: 001GB00003AfEaCYAV
+   Website: dickenson-consulting.com
+   Type: Customer - Channel
+
+10. Name: Grand Hotels & Resorts Ltd
+   Phone: (312) 596-1000
+   Id: 001GB00003AfEaDYAV
+   Website: www.grandhotels.com
+   Type: Customer - Direct
+
+
+
+User: please show me names and phone numbers of the latest 
+10 accounts
+Bot: <b>Here are your latest Accounts :</b>
+1. Name: TFT Testing Account
+   Phone: 09823479
+
+2. Name: Sample Account for Entitlements
+   Phone: null
+
+3. Name: GenePoint
+   Phone: (650) 867-3450
+
+4. Name: United Oil & Gas, UK
+   Phone: +44 191 4956203
+
+5. Name: United Oil & Gas, Singapore
+   Phone: (650) 450-8810
+
+6. Name: Edge Communications
+   Phone: (512) 757-6000
+
+7. Name: Burlington Textiles Corp of America
+   Phone: (336) 222-7000
+
+8. Name: Pyramid Construction Inc.
+   Phone: (014) 427-4427
+
+9. Name: Dickenson plc
+   Phone: (785) 241-6200
+
+10. Name: Grand Hotels & Resorts Ltd
+   Phone: (312) 596-1000
+
+
+
+User: show me phone numbers of the accounts
+Bot: <b>Here are your Accounts :</b>
+1.   Phone: 09823479
+
+2.   Phone: null
+
+3.   Phone: (650) 867-3450
+
+4.   Phone: +44 191 4956203
+
+5.   Phone: (650) 450-8810
+
+6.   Phone: (512) 757-6000
+
+7.   Phone: (336) 222-7000
+
+8.   Phone: (014) 427-4427
+
+9.   Phone: (785) 241-6200
+
+10.   Phone: (312) 596-1000
+
+
+
+User: get my salesforce campaigns
+Bot: <b>Here are your Campaigns :</b>
+1. Name: GC Product Webinar - Jan 7, 2002
+   IsActive: true
+   StartDate: August 9th 2023
+   EndDate: August 9th 2023
+   Id: 701GB000001lBXMYA2
+   Status: Completed
+   Type: Webinar
+   ExpectedRevenue: 3000000
+
+2. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   StartDate: January 17th 2024
+   EndDate: January 19th 2024
+   Id: 701GB000001lBXNYA2
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: 5500000
+
+3. Name: DM Campaign to Top Customers - Nov 12-23, 2001
+   IsActive: true
+   StartDate: June 14th 2023
+   EndDate: June 25th 2023
+   Id: 701GB000001lBXOYA2
+   Status: Completed
+   Type: Direct Mail
+   ExpectedRevenue: 2500000
+
+4. Name: International Electrical Engineers Association Trade Show - Mar 4-5, 2002
+   IsActive: true
+   StartDate: October 4th 2023
+   EndDate: October 5th 2023
+   Id: 701GB000001lBXPYA2
+   Status: Planned
+   Type: Trade Show
+   ExpectedRevenue: 8500000
+
+5. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: get my salesforce campaigns with name TFT Conclave
+Bot: <b>Here are your Campaigns :</b>
+1. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: fetch my salesforce campaigns 
+Bot: <b>Here are your Campaigns :</b>
+1. Name: GC Product Webinar - Jan 7, 2002
+   IsActive: true
+   StartDate: August 9th 2023
+   EndDate: August 9th 2023
+   Id: 701GB000001lBXMYA2
+   Status: Completed
+   Type: Webinar
+   ExpectedRevenue: 3000000
+
+2. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   StartDate: January 17th 2024
+   EndDate: January 19th 2024
+   Id: 701GB000001lBXNYA2
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: 5500000
+
+3. Name: DM Campaign to Top Customers - Nov 12-23, 2001
+   IsActive: true
+   StartDate: June 14th 2023
+   EndDate: June 25th 2023
+   Id: 701GB000001lBXOYA2
+   Status: Completed
+   Type: Direct Mail
+   ExpectedRevenue: 2500000
+
+4. Name: International Electrical Engineers Association Trade Show - Mar 4-5, 2002
+   IsActive: true
+   StartDate: October 4th 2023
+   EndDate: October 5th 2023
+   Id: 701GB000001lBXPYA2
+   Status: Planned
+   Type: Trade Show
+   ExpectedRevenue: 8500000
+
+5. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: can you fetch a salesforce campaign? whose name is 
+TFT Conclave
+Bot: <b>Here are your Campaigns :</b>
+1. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: fetch campaigns from january 1, 2024, to december 31, 2024
+Bot: <b>Here are your Campaigns :</b>
+1. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   StartDate: January 17th 2024
+   EndDate: January 19th 2024
+   Id: 701GB000001lBXNYA2
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: 5500000
+
+2. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: please give me the statuses and ids of the latest 14 
+campaigns from salesforce
+Bot: <b>Here are your latest Campaigns :</b>
+1. Name: GC Product Webinar - Jan 7, 2002
+   IsActive: true
+   Id: 701GB000001lBXMYA2
+   Status: Completed
+
+2. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   Id: 701GB000001lBXNYA2
+   Status: Planned
+
+3. Name: DM Campaign to Top Customers - Nov 12-23, 2001
+   IsActive: true
+   Id: 701GB000001lBXOYA2
+   Status: Completed
+
+4. Name: International Electrical Engineers Association Trade Show - Mar 4-5, 2002
+   IsActive: true
+   Id: 701GB000001lBXPYA2
+   Status: Planned
+
+5. Name: TFT Conclave
+   IsActive: true
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+
+
+
+User: please give me the latest 10 campaigns
+Bot: <b>Here are your latest Campaigns :</b>
+1. Name: GC Product Webinar - Jan 7, 2002
+   IsActive: true
+   StartDate: August 9th 2023
+   EndDate: August 9th 2023
+   Id: 701GB000001lBXMYA2
+   Status: Completed
+   Type: Webinar
+   ExpectedRevenue: 3000000
+
+2. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   StartDate: January 17th 2024
+   EndDate: January 19th 2024
+   Id: 701GB000001lBXNYA2
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: 5500000
+
+3. Name: DM Campaign to Top Customers - Nov 12-23, 2001
+   IsActive: true
+   StartDate: June 14th 2023
+   EndDate: June 25th 2023
+   Id: 701GB000001lBXOYA2
+   Status: Completed
+   Type: Direct Mail
+   ExpectedRevenue: 2500000
+
+4. Name: International Electrical Engineers Association Trade Show - Mar 4-5, 2002
+   IsActive: true
+   StartDate: October 4th 2023
+   EndDate: October 5th 2023
+   Id: 701GB000001lBXPYA2
+   Status: Planned
+   Type: Trade Show
+   ExpectedRevenue: 8500000
+
+5. Name: TFT Conclave
+   IsActive: true
+   StartDate: July 1st 2024
+   EndDate: July 26th 2024
+   Id: 701GB000002mkuuYAA
+   Status: Planned
+   Type: Conference
+   ExpectedRevenue: null
+
+
+
+User: give me the names and statuses of campaigns from salesforce
+Bot: <b>Here are your Campaigns :</b>
+1. Name: GC Product Webinar - Jan 7, 2002
+   IsActive: true
+   Status: Completed
+
+2. Name: User Conference - Jun 17-19, 2002
+   IsActive: true
+   Status: Planned
+
+3. Name: DM Campaign to Top Customers - Nov 12-23, 2001
+   IsActive: true
+   Status: Completed
+
+4. Name: International Electrical Engineers Association Trade Show - Mar 4-5, 2002
+   IsActive: true
+   Status: Planned
+
+5. Name: TFT Conclave
+   IsActive: true
+   Status: Planned
+
+
+
+User: retrieve the contact list with names, phone numbers, 
+and emails, sorted by date from salesforce
+Bot: <b>Here are your Contacts :</b>
+1. Name: diy gosr
+   Phone: 12345678
+   Email: teat@mail.com
+
+2. Name: Ms.Rose Gonzalez
+   Phone: (512) 757-6000
+   Email: rose@edge.com
+
+3. Name: Mr.Sean Forbes
+   Phone: (512) 757-6000
+   Email: sean@edge.com
+
+4. Name: Mr.Jack Rogers
+   Phone: (336) 222-7000
+   Email: jrogers@burlington.com
+
+5. Name: Ms.Pat Stumuller
+   Phone: (014) 427-4427
+   Email: pat@pyramid.net
+
+6. Name: MrAndy Young
+   Phone: (785) 241-6200
+   Email: a_young@dickenson.com
+
+7. Name: Mr.Tim Barr
+   Phone: (312) 596-1000
+   Email: barr_tim@grandhotels.com
+
+8. Name: Mr.John Bond
+   Phone: (312) 596-1000
+   Email: bond_john@grandhotels.com
+
+9. Name: Ms.Stella Pavlova
+   Phone: (212) 842-5500
+   Email: spavlova@uog.com
+
+10. Name: Ms.Lauren Boyle
+   Phone: (212) 842-5500
+   Email: lboyle@uog.com
+
+
+
+User: give me the names, phone numbers, and emails of 15 contacts
+Bot: <b>Here are your Contacts :</b>
+1. Name: diy gosr
+   Phone: 12345678
+   Email: teat@mail.com
+
+2. Name: Ms.Rose Gonzalez
+   Phone: (512) 757-6000
+   Email: rose@edge.com
+
+3. Name: Mr.Sean Forbes
+   Phone: (512) 757-6000
+   Email: sean@edge.com
+
+4. Name: Mr.Jack Rogers
+   Phone: (336) 222-7000
+   Email: jrogers@burlington.com
+
+5. Name: Ms.Pat Stumuller
+   Phone: (014) 427-4427
+   Email: pat@pyramid.net
+
+6. Name: MrAndy Young
+   Phone: (785) 241-6200
+   Email: a_young@dickenson.com
+
+7. Name: Mr.Tim Barr
+   Phone: (312) 596-1000
+   Email: barr_tim@grandhotels.com
+
+8. Name: Mr.John Bond
+   Phone: (312) 596-1000
+   Email: bond_john@grandhotels.com
+
+9. Name: Ms.Stella Pavlova
+   Phone: (212) 842-5500
+   Email: spavlova@uog.com
+
+10. Name: Ms.Lauren Boyle
+   Phone: (212) 842-5500
+   Email: lboyle@uog.com
+
+11. Name: Ms.Babara Levy
+   Phone: (503) 421-7800
+   Email: b.levy@expressl&t.net
+
+12. Name: Mr.Josh Davis
+   Phone: (503) 421-7800
+   Email: j.davis@expressl&t.net
+
+13. Name: Ms.Jane Grey
+   Phone: (520) 773-9050
+   Email: jane_gray@uoa.edu
+
+14. Name: Mr.Arthur Song
+   Phone: (212) 842-5500
+   Email: asong@uog.com
+
+15. Name: Ms.Ashley James
+   Phone: +44 191 4956203
+   Email: ajames@uog.com
+
+
+
