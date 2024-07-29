@@ -1,5 +1,7 @@
 Run : 
+  
   for selfBest : node src/selfBest.js
+  
   for standalone : node src/standAlone.js
 
 
