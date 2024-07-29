@@ -1,4 +1,6 @@
 Command to Run : 
+
+npm ci
   
   for selfBest : 'node src/selfBest.js'
   
